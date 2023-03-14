@@ -28,6 +28,12 @@ Download and install suitable XAMP server from this link - https://www.apachefri
 - Use any credentials from database to login. The password for all accounts is set to **Test@123**
 
 # Screenshots
+![Main Page](Screenshots/main.png)
+
+***
+![Home Page](Screenshots/home.png)
+
+***
 
 ![Login Page](Screenshots/Login.png)
 
