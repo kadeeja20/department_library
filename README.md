@@ -72,7 +72,7 @@ Download and install suitable XAMP server from this link - https://www.apachefri
 
 ***
 
-![Issue Book](Screenshots/issue_book.png)
+![Issue Books](Screenshots/issue_book.png)
 
 ***
 
